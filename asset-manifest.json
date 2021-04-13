@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theCatApi/static/css/main.0ea8d85c.chunk.css",
+    "main.js": "/theCatApi/static/js/main.d660ca6e.chunk.js",
+    "main.js.map": "/theCatApi/static/js/main.d660ca6e.chunk.js.map",
+    "runtime-main.js": "/theCatApi/static/js/runtime-main.835312c4.js",
+    "runtime-main.js.map": "/theCatApi/static/js/runtime-main.835312c4.js.map",
+    "static/js/2.d78516a4.chunk.js": "/theCatApi/static/js/2.d78516a4.chunk.js",
+    "static/js/2.d78516a4.chunk.js.map": "/theCatApi/static/js/2.d78516a4.chunk.js.map",
+    "static/js/3.23fde602.chunk.js": "/theCatApi/static/js/3.23fde602.chunk.js",
+    "static/js/3.23fde602.chunk.js.map": "/theCatApi/static/js/3.23fde602.chunk.js.map",
+    "index.html": "/theCatApi/index.html",
+    "static/css/main.0ea8d85c.chunk.css.map": "/theCatApi/static/css/main.0ea8d85c.chunk.css.map",
+    "static/js/2.d78516a4.chunk.js.LICENSE.txt": "/theCatApi/static/js/2.d78516a4.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/theCatApi/static/media/pngtree-shapes-with-geometric-minimal-gradient-rectangle-background-png-image_704518.38dcaa5d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.835312c4.js",
+    "static/js/2.d78516a4.chunk.js",
+    "static/css/main.0ea8d85c.chunk.css",
+    "static/js/main.d660ca6e.chunk.js"
+  ]
+}
